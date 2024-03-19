@@ -4,7 +4,7 @@ import Enrutamiento from './Enrutamiento';
 
 export default function App() {
   return (
-    <View >
+    <View style={{flex:1}}>
       <Enrutamiento />
     </View>
   );
